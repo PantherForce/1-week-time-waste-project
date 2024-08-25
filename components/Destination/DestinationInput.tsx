@@ -94,7 +94,7 @@ const DestinationInput: React.FC = () => {
           }`}
           disabled={loading || !bestFact} // Disable button until fact is loaded
         >
-          Let's see the magic
+          Lets see the magic
         </button>
       </div>
       <div>
